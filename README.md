@@ -39,7 +39,6 @@
 <code><img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/github.svg"></code>
 <code><img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/angular.svg"></code>
 <code><img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/firebase.svg"></code>
-<code><img width="26px" src=""></code>
 
 <br/>
 
