@@ -10,8 +10,8 @@
   <img align="right" src="https://profile-counter.glitch.me/nhemnt/count.svg" alt="Profile visitor" />
 </a>
 
+![Paytm](https://img.shields.io/badge/Paytm-1C2C94?style=for-the-badge&logo=paytm&logoColor=05BAF3)
 
-[![wakatime](https://wakatime.com/badge/user/bcc533aa-4bb8-4f91-a0a2-acb87d1e783f.svg)](https://wakatime.com/badge/user/bcc533aa-4bb8-4f91-a0a2-acb87d1e783f.svg)
 
 <!-- Intro  -->
 <h3 align="center">
